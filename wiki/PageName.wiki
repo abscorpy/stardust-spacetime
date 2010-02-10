@@ -1,11 +1,7 @@
 #summary Entities in the Stardust Spacetime.
 #labels Phase-Design
 
-= Introduction =
-
-Types of entities in the Spacetime are listed here.
-
-= Entities =
+== Entities ==
 
 Server entities:
   * Star systems
