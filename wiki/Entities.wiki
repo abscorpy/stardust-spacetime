@@ -1,8 +1,6 @@
 #summary Entities in the Stardust Spacetime.
 #labels Phase-Design
 
-== Entities ==
-
 Server entities:
   * Star systems
 Generated in star systems:
@@ -24,3 +22,4 @@ Created by players and computer players:
     * Stationaries:
       * Buildings
       * Space stations
+    * Modules
